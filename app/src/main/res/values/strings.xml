@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Connectivity Playground</string>
+    <string name="get_current_status">Get current status</string>
+    <string name="auto_checker">Auto checker</string>
+    <string name="manual_checker">Manual checker</string>
+</resources>

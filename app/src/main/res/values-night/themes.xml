@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.ConnectivityPlayground" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_dark_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_dark_onPrimaryContainer</item>
+        <item name="colorOnSurface">@color/md_theme_dark_onSurface</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+
+        <item name="auto_section_bg">@color/bg_color_auto_dark</item>
+        <item name="manual_section_bg">@color/bg_color_manual_dark</item>
+    </style>
+</resources>
